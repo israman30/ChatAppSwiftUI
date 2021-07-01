@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>112581481915-j05vd0sotkjej8v1nmcb7vj3dup32e33.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.112581481915-j05vd0sotkjej8v1nmcb7vj3dup32e33</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdpjCaMS-vPMy8VEx-6mF1ZV6_NO0IMJk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>112581481915</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.israman.ChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>pushnotificationsdemo-abf19</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pushnotificationsdemo-abf19.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:112581481915:ios:ea3bc5cac007ae2941a09e</string>
+	<key>DATABASE_URL</key>
+	<string>https://pushnotificationsdemo-abf19.firebaseio.com</string>
+</dict>
+</plist>
